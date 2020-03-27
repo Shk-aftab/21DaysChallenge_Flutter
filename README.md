@@ -9,4 +9,4 @@ success)
 3. At the end got flutter running on Android as well as on visual code xD
 4. I ran the code which was already written and felt releaved...lol 
 
-![](already_written_code.PNG)
+![](Day%201/already_written_code.PNG)
